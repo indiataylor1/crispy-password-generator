@@ -2,13 +2,21 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
+4. [Link To Deployed Action](#link-to-deployed-action)
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+This project is the solution to University of Birmingham Bootcamp, Challenge 3. The aim of this challenge is to create a random password generator which fulfills the following criteria:
+
+* User is presented with a series of prompts for password criteria.
+* User is able to select which criteria to include in the password.
+* Password length must be between 8 - 128 characters long.
+* User can choose whether to include uppercase, lowercase, numeric, or special characters.
+* Input should be validated.
+* Password is generated which fits all the above criteria, and is displayed in an alert or written to the page.
+
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Project Screenshot](https://user-images.githubusercontent.com/116799866/203401149-27cc62eb-1a1d-41ca-a1d1-724ba034bd3c.png)
 ## Technologies
 ***
 A list of technologies used within the project:
@@ -25,12 +33,10 @@ $ npm install
 $ npm start
 ```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
+## Link To Deployed Action
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
+Include the link to deployed action HERE once project is complete.
+
 ## FAQs
 ***
 A list of frequently asked questions
