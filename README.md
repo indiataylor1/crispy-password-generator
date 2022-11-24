@@ -19,5 +19,5 @@ This project is the solution to University of Birmingham Bootcamp, Challenge 3. 
 
 ### Link to Deployed Action
 ***
-http://127.0.0.1:5500/friendly-parakeet/Develop/index.html
+https://indiataylor1.github.io/random-password-generator/
 
